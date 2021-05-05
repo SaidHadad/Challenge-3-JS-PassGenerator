@@ -38,6 +38,8 @@ The following image demonstrates the application functionality:
 
 ## Review
 
+Created :)
+
 You are required to submit the following for review:
 
 * The URL of the deployed application.
