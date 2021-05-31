@@ -1,50 +1,112 @@
-# 03 JavaScript: Password Generator
 
-Create an application that generates a random password based on user-selected criteria. This app will run in the browser and feature dynamically updated HTML and CSS powered by your JavaScript code. It will also feature a clean and polished user interface and be responsive, ensuring that it adapts to multiple screen sizes.
 
-If you are unfamiliar with special characters, take a look at [some examples](https://www.owasp.org/index.php/Password_special_characters).
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <a href="https://github.com/othneildrew/Best-README-Template">
+    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  </a>
 
-## User Story
+  <h1 align="center"># 03 JavaScript: Password Generator</h1>
 
-```
-AS AN employee with access to sensitive data
-I WANT to randomly generate a password that meets certain criteria
-SO THAT I can create a strong password that provides greater security
-```
+  <p align="center">
+    An awesome password Generator that will keep you and your information safe!
 
-## Acceptance Criteria
 
-```
-GIVEN I need a new, secure password
-WHEN I click the button to generate a password
-THEN I am presented with a series of prompts for password criteria
-WHEN prompted for password criteria
-THEN I select which criteria to include in the password
-WHEN prompted for the length of the password
-THEN I choose a length of at least 8 characters and no more than 128 characters
-WHEN prompted for character types to include in the password
-THEN I choose lowercase, uppercase, numeric, and/or special characters
-WHEN I answer each prompt
-THEN my input should be validated and at least one character type should be selected
-WHEN all prompts are answered
-THEN a password is generated that matches the selected criteria
-WHEN the password is generated
-THEN the password is either displayed in an alert or written to the page
-```
 
-The following image demonstrates the application functionality:
 
-![password generator demo](./Assets/03-javascript-homework-demo.png)
+<!-- TABLE OF CONTENTS -->
+<details open="open">
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+    <!-- <li> -->
+      <a href="#getting-started">Getting Started</a>
+      <!-- <ul> -->
+        <!-- <li><a href="#prerequisites">Prerequisites</a></li> -->
+        <!-- <li><a href="#installation">Installation</a></li> -->
+      <!-- </ul> -->
+    <!-- </li> -->
+    <li><a href="#usage">Usage</a></li>
+    <!-- <li><a href="#roadmap">Roadmap</a></li> -->
+    <!-- <li><a href="#contributing">Contributing</a></li> -->
+    <li><a href="#license">License</a></li>
+    <li><a href="#contact">Contact</a></li>
+    <!-- <li><a href="#acknowledgements">Acknowledgements</a></li> -->
+  </ol>
+</details>
 
-## Review
 
-Created :)
 
-You are required to submit the following for review:
+<!-- ABOUT THE PROJECT -->
+## About The Project
 
-* The URL of the deployed application.
+[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-* The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
+There are many great password generators in the internet but this is mine!! done as part of my 3rd project for the UofT bootcamp
 
-- - -
-© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
+It takes user imput such as password lenght/uppercase/lowercase/special characters, and creates a secure random password.
+
+### Built With
+
+* [HTML]
+* [JS]
+* [CSS]
+
+
+
+<!-- GETTING STARTED -->
+## Getting Started
+
+Intuitive to use, just hit generate password and follow the prompts!
+
+<!-- ### Prerequisites -->
+
+<!-- This is an example of how to list things you need to use the software and how to install them.
+* npm
+  ```sh
+  npm install npm@latest -g
+  ``` -->
+
+<!-- ### Installation
+## Instalation
+
+
+<!-- USAGE EXAMPLES -->
+## Usage
+
+Use it if you are in need of a secure password generator :)!
+
+<!-- ROADMAP
+## Roadmap
+
+
+<!-- CONTRIBUTING -->
+<!-- ## Contributing
+
+
+<!-- LICENSE -->
+## License
+
+Free to use, share the knowledge!!.
+
+
+<!-- CONTACT -->
+## Contact
+
+Said Hadad - saiddavid.hadad@gmail.com
+
+Project Link: [https://github.com/your_username/repo_name](https://saidhadad.github.io/Challenge-3-JS-PassGenerator/)
+
+
+
+<!-- ACKNOWLEDGEMENTS -->
+<!-- ## Acknowledgements
+
+<!-- MARKDOWN LINKS & IMAGES -->
+
