@@ -46,7 +46,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](./Assets\03-javascript-homework-demo.png)
 
 There are many great password generators in the internet but this is mine!! done as part of my 3rd project for the UofT bootcamp
 
